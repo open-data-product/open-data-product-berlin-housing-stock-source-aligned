@@ -1,25 +1,25 @@
 ---
 dataProductDescriptor: data-product-descriptor
 info:
-  fullyQualifiedName: urn:dpds:opendataproduct:dataproducts:berlin-lor-housing-stock-source-aligned:1.0
-  name: Berlin LOR Housing Stock (source-aligned)
+  fullyQualifiedName: urn:dpds:opendataproduct:dataproducts:berlin-housing-stock-source-aligned:1.0
+  name: Berlin Housing Stock (source-aligned)
   version: '1.0'
   domain: domain
   owner:
     id: Open Data product
     name: Open Data product
-  id: berlin-lor-housing-stock-source-aligned
+  id: berlin-housing-stock-source-aligned
   entityType:
-  displayName: Berlin LOR Housing Stock (source-aligned)
-  description: Source-aligned data product providing Berlin LOR housing stock data
+  displayName: Berlin Housing Stock (source-aligned)
+  description: Source-aligned data product providing Berlin housing stock data
   contactPoints:
 interfaceComponents:
   outputPorts:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2015-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2015-00-csv
+      id: berlin-housing-stock-2015-00-csv
+      fullyQualifiedName: berlin-housing-stock-2015-00-csv
       entityType:
       name: ''
       version:
@@ -31,8 +31,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2015-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2015-00-parquet
+      id: berlin-housing-stock-2015-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2015-00-parquet
       entityType:
       name: ''
       version:
@@ -44,8 +44,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2016-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2016-00-csv
+      id: berlin-housing-stock-2016-00-csv
+      fullyQualifiedName: berlin-housing-stock-2016-00-csv
       entityType:
       name: ''
       version:
@@ -57,8 +57,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2016-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2016-00-parquet
+      id: berlin-housing-stock-2016-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2016-00-parquet
       entityType:
       name: ''
       version:
@@ -70,8 +70,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2017-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2017-00-csv
+      id: berlin-housing-stock-2017-00-csv
+      fullyQualifiedName: berlin-housing-stock-2017-00-csv
       entityType:
       name: ''
       version:
@@ -83,8 +83,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2017-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2017-00-parquet
+      id: berlin-housing-stock-2017-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2017-00-parquet
       entityType:
       name: ''
       version:
@@ -96,8 +96,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2018-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2018-00-csv
+      id: berlin-housing-stock-2018-00-csv
+      fullyQualifiedName: berlin-housing-stock-2018-00-csv
       entityType:
       name: ''
       version:
@@ -109,8 +109,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2018-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2018-00-parquet
+      id: berlin-housing-stock-2018-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2018-00-parquet
       entityType:
       name: ''
       version:
@@ -122,8 +122,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2019-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2019-00-csv
+      id: berlin-housing-stock-2019-00-csv
+      fullyQualifiedName: berlin-housing-stock-2019-00-csv
       entityType:
       name: ''
       version:
@@ -135,8 +135,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2019-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2019-00-parquet
+      id: berlin-housing-stock-2019-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2019-00-parquet
       entityType:
       name: ''
       version:
@@ -148,8 +148,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2020-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2020-00-csv
+      id: berlin-housing-stock-2020-00-csv
+      fullyQualifiedName: berlin-housing-stock-2020-00-csv
       entityType:
       name: ''
       version:
@@ -161,8 +161,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2020-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2020-00-parquet
+      id: berlin-housing-stock-2020-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2020-00-parquet
       entityType:
       name: ''
       version:
@@ -174,8 +174,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2021-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2021-00-csv
+      id: berlin-housing-stock-2021-00-csv
+      fullyQualifiedName: berlin-housing-stock-2021-00-csv
       entityType:
       name: ''
       version:
@@ -187,8 +187,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2021-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2021-00-parquet
+      id: berlin-housing-stock-2021-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2021-00-parquet
       entityType:
       name: ''
       version:
@@ -200,8 +200,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2022-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2022-00-csv
+      id: berlin-housing-stock-2022-00-csv
+      fullyQualifiedName: berlin-housing-stock-2022-00-csv
       entityType:
       name: ''
       version:
@@ -213,8 +213,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2022-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2022-00-parquet
+      id: berlin-housing-stock-2022-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2022-00-parquet
       entityType:
       name: ''
       version:
@@ -226,8 +226,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2023-00-csv
-      fullyQualifiedName: berlin-lor-housing-stock-2023-00-csv
+      id: berlin-housing-stock-2023-00-csv
+      fullyQualifiedName: berlin-housing-stock-2023-00-csv
       entityType:
       name: ''
       version:
@@ -239,8 +239,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2023-00-parquet
-      fullyQualifiedName: berlin-lor-housing-stock-2023-00-parquet
+      id: berlin-housing-stock-2023-00-parquet
+      fullyQualifiedName: berlin-housing-stock-2023-00-parquet
       entityType:
       name: ''
       version:
@@ -253,8 +253,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2015-00
-      fullyQualifiedName: berlin-lor-housing-stock-2015-00
+      id: berlin-housing-stock-2015-00
+      fullyQualifiedName: berlin-housing-stock-2015-00
       entityType:
       name: ''
       version:
@@ -266,8 +266,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2016-00
-      fullyQualifiedName: berlin-lor-housing-stock-2016-00
+      id: berlin-housing-stock-2016-00
+      fullyQualifiedName: berlin-housing-stock-2016-00
       entityType:
       name: ''
       version:
@@ -279,8 +279,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2017-00
-      fullyQualifiedName: berlin-lor-housing-stock-2017-00
+      id: berlin-housing-stock-2017-00
+      fullyQualifiedName: berlin-housing-stock-2017-00
       entityType:
       name: ''
       version:
@@ -292,8 +292,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2018-00
-      fullyQualifiedName: berlin-lor-housing-stock-2018-00
+      id: berlin-housing-stock-2018-00
+      fullyQualifiedName: berlin-housing-stock-2018-00
       entityType:
       name: ''
       version:
@@ -305,8 +305,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2019-00
-      fullyQualifiedName: berlin-lor-housing-stock-2019-00
+      id: berlin-housing-stock-2019-00
+      fullyQualifiedName: berlin-housing-stock-2019-00
       entityType:
       name: ''
       version:
@@ -318,8 +318,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2020-00
-      fullyQualifiedName: berlin-lor-housing-stock-2020-00
+      id: berlin-housing-stock-2020-00
+      fullyQualifiedName: berlin-housing-stock-2020-00
       entityType:
       name: ''
       version:
@@ -331,8 +331,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2021-00
-      fullyQualifiedName: berlin-lor-housing-stock-2021-00
+      id: berlin-housing-stock-2021-00
+      fullyQualifiedName: berlin-housing-stock-2021-00
       entityType:
       name: ''
       version:
@@ -344,8 +344,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2022-00
-      fullyQualifiedName: berlin-lor-housing-stock-2022-00
+      id: berlin-housing-stock-2022-00
+      fullyQualifiedName: berlin-housing-stock-2022-00
       entityType:
       name: ''
       version:
@@ -357,8 +357,8 @@ interfaceComponents:
     - promises:
       expectations:
       obligations:
-      id: berlin-lor-housing-stock-2023-00
-      fullyQualifiedName: berlin-lor-housing-stock-2023-00
+      id: berlin-housing-stock-2023-00
+      fullyQualifiedName: berlin-housing-stock-2023-00
       entityType:
       name: ''
       version:

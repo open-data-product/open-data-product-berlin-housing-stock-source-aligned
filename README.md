@@ -1,15 +1,15 @@
-[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-berlin-lor-housing-stock-source-aligned)](https://github.com/open-data-product/open-data-product-berlin-lor-housing-stock-source-aligned/issues)
+[![Issues](https://img.shields.io/github/issues/open-data-product/open-data-product-berlin-housing-stock-source-aligned)](https://github.com/open-data-product/open-data-product-berlin-housing-stock-source-aligned/issues)
 
 <br />
 <p align="center">
-  <a href="https://github.com/open-data-product/open-data-product-berlin-lor-housing-stock-source-aligned">
+  <a href="https://github.com/open-data-product/open-data-product-berlin-housing-stock-source-aligned">
     <img src="logo-with-text.png" alt="Logo" style="height: 80px; ">
   </a>
 
-  <h1 align="center">Berlin LOR Housing Stock (source-aligned)</h1>
+  <h1 align="center">Berlin Housing Stock (source-aligned)</h1>
 
   <p align="center">
-    Source-aligned data product providing Berlin LOR housing stock data
+    Source-aligned data product providing Berlin housing stock data
   </p>
 </p>
 
